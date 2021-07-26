@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap");
+body {
+  background-color: seashell;
+  font-family: "Merriweather", serif;
+}
+.Game-Wrapper {
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
+.circle::before {
+  font-size: 200px;
+  color: slateblue;
+}
+.icon-wrapper {
+  display: inline-block;
+  margin: 20px;
+}
+.play-button {
+  background-color: slateblue;
+  padding: 8px;
+  border-radius: 8px;
+  color: white;
+  outline: none;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  width: 150px;
+  height: 45px;
+  transition: all 0.3s ease-out;
+  text-align: center;
+}
+
+.play-button:hover {
+  background-color: darkslateblue;
+  transition: all 0.3s ease-in;
+}
+.success {
+  color: green;
+}
+.failed {
+  color: red;
+}
