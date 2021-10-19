@@ -3,5 +3,5 @@
   "short_name": "R-D",
   "start-url": ".",
   "background-color": "blue",
-  "display": "fullscreen"
+  "display": "standalone"
 }
