@@ -1,7 +1,7 @@
 {
   "name": "Roll-Dice",
   "short_name": "R-D",
-  "start-url": ".",
-  "background-color": "blue",
+  "start_url": ".",
+  "background_color": "blue",
   "display": "minimal-ui"
 }
