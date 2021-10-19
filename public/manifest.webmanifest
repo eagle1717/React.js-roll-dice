@@ -3,5 +3,6 @@
   "short_name": "R-D",
   "start_url": ".",
   "background_color": "blue",
-  "display": "minimal-ui"
+  "display": "minimal-ui",
+  "theme_color": "blue"
 }
